@@ -1,0 +1,9 @@
+[30-Sep-2021 15:42:51 UTC] PHP Notice:  Undefined index: nombre in /home/u863523941/domains/ossrezz.me/public_html/appflower/roles/Modelo/ModeloRoles.php on line 41
+[30-Sep-2021 15:42:51 UTC] PHP Notice:  Undefined index: nombre in /home/u863523941/domains/ossrezz.me/public_html/appflower/roles/Modelo/ModeloRoles.php on line 27
+[30-Sep-2021 15:42:51 UTC] PHP Notice:  Undefined index: perfil in /home/u863523941/domains/ossrezz.me/public_html/appflower/operarios/vista/operariosVista.php on line 62
+[30-Sep-2021 15:42:52 UTC] PHP Notice:  Undefined index: nombre in /home/u863523941/domains/ossrezz.me/public_html/appflower/roles/Modelo/ModeloRoles.php on line 41
+[30-Sep-2021 15:42:52 UTC] PHP Notice:  Undefined index: nombre in /home/u863523941/domains/ossrezz.me/public_html/appflower/roles/Modelo/ModeloRoles.php on line 27
+[30-Sep-2021 15:42:52 UTC] PHP Notice:  Undefined index: perfil in /home/u863523941/domains/ossrezz.me/public_html/appflower/operarios/vista/operariosVista.php on line 62
+[30-Sep-2021 15:42:57 UTC] PHP Notice:  Undefined index: nombre in /home/u863523941/domains/ossrezz.me/public_html/appflower/roles/Modelo/ModeloRoles.php on line 41
+[30-Sep-2021 15:42:57 UTC] PHP Notice:  Undefined index: nombre in /home/u863523941/domains/ossrezz.me/public_html/appflower/roles/Modelo/ModeloRoles.php on line 27
+[30-Sep-2021 15:42:57 UTC] PHP Notice:  Undefined index: perfil in /home/u863523941/domains/ossrezz.me/public_html/appflower/operarios/vista/operariosVista.php on line 62

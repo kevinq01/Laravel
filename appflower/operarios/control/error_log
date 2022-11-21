@@ -1,0 +1,2 @@
+[29-Sep-2021 18:31:06 UTC] PHP Notice:  Undefined index: cedulaOperario in /home/u863523941/domains/ossrezz.me/public_html/appflower/operarios/control/ctrlActualizarOperario.php on line 13
+[29-Sep-2021 18:42:30 UTC] PHP Notice:  Undefined index: cedulaOperario in /home/u863523941/domains/ossrezz.me/public_html/appflower/operarios/control/ctrlActualizarOperario.php on line 13
